@@ -1,4 +1,4 @@
-# Homework_02
+# homework_02
 
-[This](https://github.com/jospell/homework_02) is the repository for our __first__ class project.
-We are supposed to write a _small_ web application using html, css and js.
+[This](https://github.com/jospell/homework_02.git) is the repository for our (Dawits & Jonnas) __first class project__!
+We are supposed to create a __simple__ webside using _HTML, CSS and Javascript_.
