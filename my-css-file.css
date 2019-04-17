@@ -2,3 +2,20 @@ body {
   color: white;
   background-color: #3C5A99;
 }
+
+label, button {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+input, textarea {
+  font: 1em sans-serif;
+
+  width: 300px;
+  box-sizing: border-box;
+
+  border: 1px solid #999;
+}
+input:focus, textarea:focus {
+  border-color: #000;
+}
